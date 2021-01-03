@@ -1,5 +1,4 @@
-# Red_Deer_Forestry_CFR7
-Airport - Red Deer Forestry (CFR7)
+# Airport - Red Deer Forestry (CFR7)
 
 Map Coordinates: 51.651402,-115.238998
 
