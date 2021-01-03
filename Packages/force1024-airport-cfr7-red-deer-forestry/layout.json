@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/force1024-airport-cfr7-red-deer-forestry/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132493640550670364
+    },
+    {
+      "path": "scenery/cfr7-airport.bgl",
+      "size": 172676,
+      "date": 132495433710072708
+    },
+    {
+      "path": "scenery/CVX0007.BGL",
+      "size": 2260,
+      "date": 132495433710214959
+    }
+  ]
+}
