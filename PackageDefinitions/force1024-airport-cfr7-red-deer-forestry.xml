@@ -1,0 +1,31 @@
+<AssetPackage Name="force1024-airport-cfr7-red-deer-forestry" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\force1024-airport-cfr7-red-deer-forestry\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\force1024-airport-cfr7-red-deer-forestry\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="force1024-airport-cfr7-red-deer-forestry">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

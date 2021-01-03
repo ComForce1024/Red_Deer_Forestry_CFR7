@@ -1,0 +1,8 @@
+<Project Version="2" Name="Red_Deer_Forestry" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\force1024-airport-cfr7-red-deer-forestry.xml</Package>
+	</Packages>
+</Project>
+

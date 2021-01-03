@@ -1,0 +1,8 @@
+_PackageInt/
+*Releases/
+*.zip
+*.bgl
+*.dbf
+*.shp
+*.shx
+Overview.htm
