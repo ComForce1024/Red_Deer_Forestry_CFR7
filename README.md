@@ -2,9 +2,7 @@
 
 Map Coordinates: 51.651402,-115.238998
 
-[OurAirports](https://ourairports.com/airports/CFR7/)
-[Google Maps](https://goo.gl/maps/7Ji57kEx3JndEU4P7)
-[Bing Maps](https://www.bing.com/maps?osid=a391c9d3-3aff-4b7b-bd6c-39754ba9d499&cp=51.651611~-115.244692&lvl=16&style=h&v=2&sV=2&form=S00027)
+[OurAirports](https://ourairports.com/airports/CFR7/) | [Google Maps](https://goo.gl/maps/7Ji57kEx3JndEU4P7) | [Bing Maps](https://www.bing.com/maps?osid=a391c9d3-3aff-4b7b-bd6c-39754ba9d499&cp=51.651611~-115.244692&lvl=16&style=h&v=2&sV=2&form=S00027)
 
 Approach Videos: 
 - https://youtu.be/M4YfC2GY418?t=236
