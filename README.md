@@ -15,8 +15,8 @@ The airport:
 Magnetic Declination: 14 [https://www.geomag.nrcan.gc.ca/calc/mdcal-r-en.php?date=2020-11-08&latitude=51.651402&latitude_direction=1&longitude=115.238998&longitude_direction=-1]
 
 The runway:
-07-25
-Length: 2,868'(874.1664 m)
-Width: 100' (30.48m) 
-Field elevation: 4,646' MSL (1416 m)
-Circuit Altitude: 5,646' MSL (1721 m)
+- 07-25
+- Length: 2,868'(874.1664 m)
+- Width: 100' (30.48m) 
+- Field elevation: 4,646' MSL (1416 m)
+- Circuit Altitude: 5,646' MSL (1721 m)
